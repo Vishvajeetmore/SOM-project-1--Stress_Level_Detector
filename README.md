@@ -8,6 +8,7 @@ XGBoost
 Logistic Regression
 Among these, the logistic Regression model performed the best, with an accuracy of 85.667% and R2 score of       
 0.4585498907600657 and root mean squared error(rmse)value = 0.6658328118479393.
+XGBOOST and Random Forest were having accuracy 100% which is not good as it was overfitting the model.
 
 ## Data Source
 I gathered the  data from kaggle and online sources.
