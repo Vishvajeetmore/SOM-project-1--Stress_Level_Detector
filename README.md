@@ -15,10 +15,16 @@ I gathered the  data from kaggle and online sources.
 
 ## Features
 -Study Hours Per Day
--Extracurricular Hours Per Day
+
+-Hobbies Hours Per Day
+
 -Sleep Hours Per Day
+
 -Social Hours Per Day
+
 -Physical Activity Hours Per Day
+
 -CGPA
+
 -Stress Level
 
