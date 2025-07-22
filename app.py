@@ -26,7 +26,7 @@ interface = gr.Interface(
         gr.Number(label="Sleep Hours per day"),
         gr.Number(label="Social Interaction Hours per day"),
         gr.Number(label="Physical Activity Hours per day"),
-        gr.Number(label="CGPA"),
+        gr.Number(label="CGPA(0-4)"),
          ],
             title="🎓 Student Stress Level Predictor",
         description=" Enter daily activity hours and CGPA to predict stress level",
