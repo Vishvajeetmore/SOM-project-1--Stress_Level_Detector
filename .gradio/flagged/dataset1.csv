@@ -1,0 +1,3 @@
+Study Hours per day,Hobbies Hours per day,Sleep Hours per day,Social Interaction Hours per day,Physical Activity Hours per day,CGPA,output,timestamp
+4,2,5,4,4,4,Predicted Stress Level: Low,2025-07-22 00:30:15.734027
+2,3,4,1,1,1,Predicted Stress Level: High,2025-07-22 01:02:53.849348
